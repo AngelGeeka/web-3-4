@@ -1,0 +1,15 @@
+.completed-todo{
+    color: #95999c;
+
+}
+
+.header-block {
+    display: inline-block;
+    width: 86%;
+}
+
+.form-control-lg {
+    font-size: .7rem;
+
+}
+
